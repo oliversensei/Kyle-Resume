@@ -20,9 +20,9 @@ export const education = [
     period: '2019-2023',
   },
   {
-    degree: 'STI Pasay - Edsa',
-    institution: 'Bachelor of Science in Tourism Management',
-    period: '2023-Present',
+    degree: 'Bachelor of Science in Tourism Management',
+    institution: 'STI Pasay - Edsa',
+    period: '(2023) 3rd Year - Present',
   },
 ];
 
