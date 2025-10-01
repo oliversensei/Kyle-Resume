@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kyle-Resume/static/css/main.12393c6a.css",
+    "main.js": "/Kyle-Resume/static/js/main.b2ef4ef4.js",
+    "static/media/layer-1.jpg": "/Kyle-Resume/static/media/layer-1.c659a3416a570cc6a41c.jpg",
+    "index.html": "/Kyle-Resume/index.html",
+    "main.12393c6a.css.map": "/Kyle-Resume/static/css/main.12393c6a.css.map",
+    "main.b2ef4ef4.js.map": "/Kyle-Resume/static/js/main.b2ef4ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12393c6a.css",
+    "static/js/main.b2ef4ef4.js"
+  ]
+}
